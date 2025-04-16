@@ -1,0 +1,31 @@
+{
+  "name": "nuxtjs-fastapi",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "fastapi-dev": "mkdir -p .venv && python -m venv .venv && .venv/bin/pip install -r requirements.txt && .venv/bin/python -m uvicorn api.index:app --reload",
+    "nuxt-dev": "nuxt dev",
+    "dev": "concurrently \"pnpm run nuxt-dev\" \"pnpm run fastapi-dev\"",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "^1.2.0",
+    "nuxt": "^3.11.2",
+    "shadcn-nuxt": "2.0.1",
+    "vue": "^3.4.23",
+    "vue-router": "^4.3.2"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.4",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "concurrently": "^8.2.2",
+    "lucide-vue-next": "^0.488.0",
+    "tailwind-merge": "^3.2.0",
+    "tailwindcss": "^4.1.4",
+    "tw-animate-css": "^1.2.5"
+  }
+}
