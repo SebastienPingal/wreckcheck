@@ -27,9 +27,10 @@
         </div>
       </SButton>
     </div>
-    <div v-if="damageAnalysis" class="mt-2 p-3 bg-gray-100 rounded-md shadow-sm">
-      <div class="text-sm font-medium">Damage Analysis</div>
+    <div v-if="damageAnalysis" class="p-3 bg-gray-100 rounded-md shadow-sm">
+      <div class="font-medium">Damage Analysis</div>
       <div class="text-sm">{{ damageAnalysis }}</div>
+      <SButton @click="generateEstimate" variant="outline">Generate estimate</SButton>
     </div>
   </div>
 </template>
@@ -38,6 +39,7 @@
 import { ref } from 'vue'
 
 const isLoading = ref(false)
+const isGeneratingEstimate = ref(false)
 const damageAnalysis = ref(null)
 const selectedImage = ref(null)
 
@@ -69,6 +71,25 @@ const uploadImage = () => {
     })
     .finally(() => {
       isLoading.value = false
+    })
+}
+
+const generateEstimate = () => {
+  isGeneratingEstimate.value = true
+
+  fetch('/api/wreckcheck/estimate', {
+    method: 'POST',
+    body: JSON.stringify({ damageAnalysis: damageAnalysis.value })
+  })
+    .then(response => response.json())
+    .then(data => {
+      console.log('✅ Estimate generated:', data)
+    })
+    .catch(error => {
+      console.error('❌ Estimate generation failed:', error)
+    })
+    .finally(() => {
+      isGeneratingEstimate.value = false
     })
 }
 </script>

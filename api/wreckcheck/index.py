@@ -37,8 +37,10 @@ async def wreckcheck(image: UploadFile = File(...)):
     )
     
     # Extract the analysis
-    print('🤖 raw response', response)
     analysis = response.choices[0].message.content
-    print('🤖 analysis', analysis)
     
     return {"damage_analysis": analysis}
+
+@app.post("/estimate")
+async def estimate(damage_analysis: str):
+    return {"estimate": "1000"}
