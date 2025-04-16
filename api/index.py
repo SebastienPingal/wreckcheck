@@ -1,10 +1,10 @@
 from fastapi import FastAPI
-from api.test.index import app as test_app
+from api.wreckcheck.index import app as wreckcheck_app
 
 app = FastAPI()
 
 # Mount the users app
-app.mount("/api/test", test_app)
+app.mount("/api/wreckcheck", wreckcheck_app)
 
 @app.get("/api")
 def hello_world():

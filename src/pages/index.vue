@@ -15,7 +15,21 @@
           <div class="text-xs text-gray-500">{{ formatSize(selectedImage.size) }}</div>
         </div>
       </div>
-      <SButton @click="uploadImage" variant="outline">Upload</SButton>
+      <SButton v-if="!isLoading" @click="uploadImage" variant="outline">Upload</SButton>
+      <SButton v-else variant="outline" class="relative">
+        <span class="opacity-0">Upload</span>
+        <div class="absolute inset-0 flex items-center justify-center">
+          <div class="flex space-x-1">
+            <div class="h-2 w-2 bg-primary rounded-full animate-bounce" style="animation-delay: 0ms"></div>
+            <div class="h-2 w-2 bg-primary rounded-full animate-bounce" style="animation-delay: 150ms"></div>
+            <div class="h-2 w-2 bg-primary rounded-full animate-bounce" style="animation-delay: 300ms"></div>
+          </div>
+        </div>
+      </SButton>
+    </div>
+    <div v-if="damageAnalysis" class="mt-2 p-3 bg-gray-100 rounded-md shadow-sm">
+      <div class="text-sm font-medium">Damage Analysis</div>
+      <div class="text-sm">{{ damageAnalysis }}</div>
     </div>
   </div>
 </template>
@@ -23,6 +37,8 @@
 <script setup>
 import { ref } from 'vue'
 
+const isLoading = ref(false)
+const damageAnalysis = ref(null)
 const selectedImage = ref(null)
 
 const formatSize = (bytes) => {
@@ -32,12 +48,13 @@ const formatSize = (bytes) => {
 }
 
 const uploadImage = () => {
+  isLoading.value = true
   console.log('🖼️ Selected image:', selectedImage.value)
-  
+
   // Call the API to upload the image
   const formData = new FormData()
   formData.append('image', selectedImage.value)
-  
+
   fetch('/api/wreckcheck', {
     method: 'POST',
     body: formData
@@ -45,9 +62,13 @@ const uploadImage = () => {
     .then(response => response.json())
     .then(data => {
       console.log('✅ Upload successful:', data)
+      damageAnalysis.value = data.damage_analysis
     })
     .catch(error => {
       console.error('❌ Upload failed:', error)
+    })
+    .finally(() => {
+      isLoading.value = false
     })
 }
 </script>
