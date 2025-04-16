@@ -32,7 +32,23 @@ const formatSize = (bytes) => {
 }
 
 const uploadImage = () => {
-  console.log(selectedImage.value)
+  console.log('🖼️ Selected image:', selectedImage.value)
+  
+  // Call the API to upload the image
+  const formData = new FormData()
+  formData.append('image', selectedImage.value)
+  
+  fetch('/api/wreckcheck', {
+    method: 'POST',
+    body: formData
+  })
+    .then(response => response.json())
+    .then(data => {
+      console.log('✅ Upload successful:', data)
+    })
+    .catch(error => {
+      console.error('❌ Upload failed:', error)
+    })
 }
 </script>
 
