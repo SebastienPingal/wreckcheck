@@ -9,7 +9,7 @@ export default defineNuxtConfig({
   modules: ["shadcn-nuxt"],
   shadcn: {
     prefix: "S",
-    componentDir: "components/ui",
+    componentDir: "src/components/ui",
   },
 
   vite: {
