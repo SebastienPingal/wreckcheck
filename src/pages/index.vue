@@ -32,10 +32,8 @@
       </SButton>
     </div>
     <SCard v-if="damageAnalysis">
-      <SCardHeader>
-        <SCardTitle>Damage Analysis</SCardTitle>
-      </SCardHeader>
       <SCardContent>
+        <p>Since we don't have access to the vehicledatabase API, we're using estimates related to another vehicle to illustrate the functionality. These estimates are not reliable.</p>
         <VueMarkdown :source="damageAnalysis" />
       </SCardContent>
     </SCard>
