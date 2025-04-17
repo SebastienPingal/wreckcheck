@@ -1,0 +1,2743 @@
+{
+  "status": "success",
+  "data": {
+    "vin": "1FADP5CU3FL118730",
+    "year": 2015,
+    "make": "Ford",
+    "model": "C MAX Hybrid",
+    "currency": "USD",
+    "repair": [
+      {
+        "title": "Air Conditioning - Recharge",
+        "description": "Over time, air conditioning may not blow as cold as when the car was new. That means that the refrigerant used in the air conditioning compressor is no longer capable of cooling. This service involves determining if the refrigerant is lost, which means there\u2019s a leak in the system that needs to be repaired (it may be a faulty seal or connector) or merely has lost its ability to cool. This service is best performed by a service technician.",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 133,
+              "high": 144,
+              "low": 122
+            },
+            {
+              "name": "labor",
+              "average": 162,
+              "high": 175,
+              "low": 149
+            },
+            {
+              "name": "total",
+              "average": 295,
+              "high": 319,
+              "low": 271
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 127,
+              "high": 137,
+              "low": 117
+            },
+            {
+              "name": "labor",
+              "average": 155,
+              "high": 167,
+              "low": 143
+            },
+            {
+              "name": "total",
+              "average": 282,
+              "high": 304,
+              "low": 260
+            }
+          ]
+        }
+      },
+      {
+        "title": "Air Conditioning - Replace Compressor",
+        "description": "When temperatures rise, your vehicle\u2019s air conditioning system has to work harder to keep you cool. Over time, the A/C may not blow as cold as you want, even though the control is at the coldest setting. Eventually, the compressor will wear out and need to be replaced. Probably the most important part of the air conditioning system, the compressor ensures a constant flow of refrigerant to cool the air channeled into the passenger cabin. Lack of cold air plus noises from clattering bearings or a squealing belt are signs of compressor failure. Although this repair is relatively straightforward, it\u2019s best done by a professional versed in evacuating and recharging the compressor\u2019s refrigerant.  ",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 672,
+              "high": 706,
+              "low": 638
+            },
+            {
+              "name": "labor",
+              "average": 1007,
+              "high": 1047,
+              "low": 967
+            },
+            {
+              "name": "total",
+              "average": 1679,
+              "high": 1753,
+              "low": 1605
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 710,
+              "high": 746,
+              "low": 675
+            },
+            {
+              "name": "labor",
+              "average": 1064,
+              "high": 1107,
+              "low": 1021
+            },
+            {
+              "name": "total",
+              "average": 1774,
+              "high": 1853,
+              "low": 1696
+            }
+          ]
+        }
+      },
+      {
+        "title": "Alternator Replacement",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 508,
+              "high": 533,
+              "low": 483
+            },
+            {
+              "name": "labor",
+              "average": 325,
+              "high": 345,
+              "low": 306
+            },
+            {
+              "name": "total",
+              "average": 833,
+              "high": 878,
+              "low": 789
+            }
+          ]
+        }
+      },
+      {
+        "title": "Axle - Replace Front Axle",
+        "description": "The constant-velocity universal joints (CV Joints) connect the front-drive wheels of your car or SUV to the transaxle and then to the engine. These joints are covered by rubber \u201cboots\u201d which help to keep the axle grease in and water and dirt out. Even the best laid plans go astray and through normal wear and sometimes even literal tears, the front CV Joints fail. It used to be easy to replace the CV Joint. That was then, this is now: Manufacturers suggest replacing the entire axle with a new or a remanufactured unit that is already sealed before installation. This practice is more desirable than rebuilding the faulty CV Joint due to the amount of work involved in the process. This is a job for professionals. ",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 277,
+              "high": 299,
+              "low": 255
+            },
+            {
+              "name": "labor",
+              "average": 514,
+              "high": 540,
+              "low": 488
+            },
+            {
+              "name": "total",
+              "average": 791,
+              "high": 839,
+              "low": 743
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 274,
+              "high": 296,
+              "low": 252
+            },
+            {
+              "name": "labor",
+              "average": 508,
+              "high": 533,
+              "low": 483
+            },
+            {
+              "name": "total",
+              "average": 782,
+              "high": 829,
+              "low": 735
+            }
+          ]
+        }
+      },
+      {
+        "title": "Battery - Replace",
+        "description": "Diamonds may be forever, but batteries are not. A car battery lasts approximately 3-4 years \u2013 or less in regions with high heat and humidity. A key sign of pending failure could be sluggish starting cycle. Many mechanics suggest having a battery \u201cload tested\u201d once every two years, in an attempt to predict just how much life may be left in your battery.",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 238,
+              "high": 257,
+              "low": 219
+            },
+            {
+              "name": "labor",
+              "average": 59,
+              "high": 64,
+              "low": 53
+            },
+            {
+              "name": "total",
+              "average": 297,
+              "high": 322,
+              "low": 272
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 285,
+              "high": 307,
+              "low": 263
+            },
+            {
+              "name": "labor",
+              "average": 71,
+              "high": 77,
+              "low": 66
+            },
+            {
+              "name": "total",
+              "average": 357,
+              "high": 385,
+              "low": 329
+            }
+          ]
+        }
+      },
+      {
+        "title": "Battery Check",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 0,
+              "high": 0,
+              "low": 0
+            },
+            {
+              "name": "labor",
+              "average": 156,
+              "high": 168,
+              "low": 144
+            },
+            {
+              "name": "total",
+              "average": 156,
+              "high": 168,
+              "low": 144
+            }
+          ]
+        }
+      },
+      {
+        "title": "Brake Bleed",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 0,
+              "high": 0,
+              "low": 0
+            },
+            {
+              "name": "labor",
+              "average": 230,
+              "high": 248,
+              "low": 212
+            },
+            {
+              "name": "total",
+              "average": 230,
+              "high": 248,
+              "low": 212
+            }
+          ]
+        }
+      },
+      {
+        "title": "Brake Caliper Replacement",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 322,
+              "high": 341,
+              "low": 303
+            },
+            {
+              "name": "labor",
+              "average": 215,
+              "high": 232,
+              "low": 198
+            },
+            {
+              "name": "total",
+              "average": 537,
+              "high": 573,
+              "low": 501
+            }
+          ]
+        }
+      },
+      {
+        "title": "Brake Fluid - Flush Fluid & Bleed Brakes",
+        "description": "Air in the brake lines can create a spongy feeling when you apply the brakes. Bleeding the brake lines usually removes the air, but it isn\u2019t a job for the faint of heart. Better left to professionals, newer ABS braking systems require specialized equipment to complete the job. ",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 102,
+              "high": 111,
+              "low": 92
+            },
+            {
+              "name": "labor",
+              "average": 124,
+              "high": 134,
+              "low": 115
+            },
+            {
+              "name": "total",
+              "average": 226,
+              "high": 246,
+              "low": 207
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 106,
+              "high": 116,
+              "low": 97
+            },
+            {
+              "name": "labor",
+              "average": 130,
+              "high": 141,
+              "low": 120
+            },
+            {
+              "name": "total",
+              "average": 237,
+              "high": 258,
+              "low": 217
+            }
+          ]
+        }
+      },
+      {
+        "title": "Brake Light Switch Replacement",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 69,
+              "high": 75,
+              "low": 63
+            },
+            {
+              "name": "labor",
+              "average": 168,
+              "high": 181,
+              "low": 155
+            },
+            {
+              "name": "total",
+              "average": 237,
+              "high": 256,
+              "low": 218
+            }
+          ]
+        }
+      },
+      {
+        "title": "Brake Line Replacement",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 263,
+              "high": 284,
+              "low": 242
+            },
+            {
+              "name": "labor",
+              "average": 253,
+              "high": 273,
+              "low": 233
+            },
+            {
+              "name": "total",
+              "average": 516,
+              "high": 557,
+              "low": 475
+            }
+          ]
+        }
+      },
+      {
+        "title": "Brake Master Cylinder Replacement",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 410,
+              "high": 435,
+              "low": 385
+            },
+            {
+              "name": "labor",
+              "average": 522,
+              "high": 548,
+              "low": 496
+            },
+            {
+              "name": "total",
+              "average": 932,
+              "high": 983,
+              "low": 881
+            }
+          ]
+        }
+      },
+      {
+        "title": "Brakes - Adjust",
+        "description": "Please note: Pricing shown is for either front brakes or rear brakes.  Modern braking systems typically are self-adjusting to ensure that the brake pad maintains constant contact with the braking surface on a rotor or drum when the brakes are applied. Older brakes may need periodic adjustment where the pad is realigned to close the gap between it and the surface by tightening adjustment screws in the brake mechanism.",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 0,
+              "high": 0,
+              "low": 0
+            },
+            {
+              "name": "labor",
+              "average": 127,
+              "high": 137,
+              "low": 117
+            },
+            {
+              "name": "total",
+              "average": 127,
+              "high": 137,
+              "low": 117
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 0,
+              "high": 0,
+              "low": 0
+            },
+            {
+              "name": "labor",
+              "average": 127,
+              "high": 137,
+              "low": 117
+            },
+            {
+              "name": "total",
+              "average": 127,
+              "high": 137,
+              "low": 117
+            }
+          ]
+        }
+      },
+      {
+        "title": "Brakes - Replace Pads",
+        "description": "Please note: Pricing shown is for either front brakes or rear brakes.  Made of ceramic, organic or metallic material, brake pads squeeze against the brake disc rotors to slow the vehicle down. Every time you apply the brakes, the pads wear down a tiny bit. Eventually a wear indicator starts squeaking to tell you it\u2019s time to replace the brake pads. It\u2019s always better to replace the pads before they start squeaking, to avoid damaging the brake rotors. A mechanic can check brake pad thickness during a tire rotation or other service. The number of miles you can go before replacing the brake pads really depends on your driving style.",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 132,
+              "high": 143,
+              "low": 121
+            },
+            {
+              "name": "labor",
+              "average": 198,
+              "high": 214,
+              "low": 182
+            },
+            {
+              "name": "total",
+              "average": 330,
+              "high": 357,
+              "low": 303
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 144,
+              "high": 156,
+              "low": 132
+            },
+            {
+              "name": "labor",
+              "average": 215,
+              "high": 232,
+              "low": 198
+            },
+            {
+              "name": "total",
+              "average": 359,
+              "high": 388,
+              "low": 330
+            }
+          ]
+        }
+      },
+      {
+        "title": "Brakes - Replace Pads & Resurface Rotors",
+        "description": "Please note: Pricing shown is for either front brakes or rear brakes. Made of ceramic, organic or metallic material, brake pads squeeze against the brake disc rotors to slow the vehicle down. Every time you apply the brakes, the pads wear down a tiny bit. Eventually a wear indicator starts squeaking to tell you it\u2019s time to replace the brake pads. A mechanic can check brake pad thickness during a tire rotation or other service. As part of the service, the rotors will be resurfaced by grinding part of the metal surface away to remove irregularities or other imperfections. Resurfacing extends the life of the rotor and is less expensive than replacing the rotor. ",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 194,
+              "high": 210,
+              "low": 179
+            },
+            {
+              "name": "labor",
+              "average": 292,
+              "high": 316,
+              "low": 269
+            },
+            {
+              "name": "total",
+              "average": 487,
+              "high": 526,
+              "low": 449
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 194,
+              "high": 210,
+              "low": 179
+            },
+            {
+              "name": "labor",
+              "average": 292,
+              "high": 316,
+              "low": 269
+            },
+            {
+              "name": "total",
+              "average": 487,
+              "high": 526,
+              "low": 449
+            }
+          ]
+        }
+      },
+      {
+        "title": "Brakes - Replace Pads & Rotors",
+        "description": "Please note: Pricing shown is for either front brakes or rear brakes. Made of ceramic, organic or metallic material, brake pads squeeze against the brake disc rotors to slow the vehicle down. Every time you apply the brakes, the pads wear down a tiny bit. Eventually a wear indicator starts squeaking to tell you it\u2019s time to replace the brake pads. \u202fA mechanic can examine brake pad thickness during a tire rotation or other service. Sometimes you feel a vibration while applying the brakes. That\u2019s a sign that you may need to \u202fresurface or \u202freplace the brake rotors. Resurfacing a brake rotor will extend the life of the rotors by grinding a tiny amount of the metal surface area away to remove any irregularities or other imperfections that have cropped up over time. After a while, the entire brake rotor may need replacement if it has become too thin (through repeated grindings) or warped from variations in temperature. Don\u2019t delay, as brakes are probably one of the most critical safety devices on your vehicle, right up there with seat belts.\u202f ",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 358,
+              "high": 379,
+              "low": 336
+            },
+            {
+              "name": "labor",
+              "average": 239,
+              "high": 258,
+              "low": 220
+            },
+            {
+              "name": "total",
+              "average": 597,
+              "high": 638,
+              "low": 557
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 420,
+              "high": 445,
+              "low": 395
+            },
+            {
+              "name": "labor",
+              "average": 280,
+              "high": 302,
+              "low": 257
+            },
+            {
+              "name": "total",
+              "average": 700,
+              "high": 748,
+              "low": 653
+            }
+          ]
+        }
+      },
+      {
+        "title": "Brakes - Replace Rotors",
+        "description": "Please note: Pricing shown is for either front brakes or rear brakes. Sometimes you feel a vibration while applying the brakes. That\u2019s a sign that you may need to resurface or replace the brake rotors. Resurfacing a brake rotor will extend the life of the rotors by grinding a tiny amount of the metal away, to remove irregularities or other imperfections that have cropped up over time. After a while, the entire brake rotor may need to be replaced if it has become too thin (through repeated grindings) or warped from variations in temperature. Don\u2019t delay, as brakes are one of the most critical safety devices on your vehicle, right up there with seat belts.",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 195,
+              "high": 211,
+              "low": 179
+            },
+            {
+              "name": "labor",
+              "average": 130,
+              "high": 140,
+              "low": 120
+            },
+            {
+              "name": "total",
+              "average": 325,
+              "high": 351,
+              "low": 299
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 195,
+              "high": 211,
+              "low": 179
+            },
+            {
+              "name": "labor",
+              "average": 130,
+              "high": 140,
+              "low": 120
+            },
+            {
+              "name": "total",
+              "average": 325,
+              "high": 351,
+              "low": 299
+            }
+          ]
+        }
+      },
+      {
+        "title": "Brakes - Resurface Rotors",
+        "description": "Please note: Pricing shown is for either front brakes or rear brakes. Sometimes you feel a vibration while applying the brakes. That\u2019s a sign that you may need t\u202fresurface the brake rotors. Resurfacing extends the life of the rotors by grinding a tiny amount of the metal surface area away, to remove any irregularities or other imperfections that have cropped up over time.\u00a0",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 0,
+              "high": 0,
+              "low": 0
+            },
+            {
+              "name": "labor",
+              "average": 186,
+              "high": 201,
+              "low": 171
+            },
+            {
+              "name": "total",
+              "average": 186,
+              "high": 201,
+              "low": 171
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 0,
+              "high": 0,
+              "low": 0
+            },
+            {
+              "name": "labor",
+              "average": 224,
+              "high": 242,
+              "low": 206
+            },
+            {
+              "name": "total",
+              "average": 224,
+              "high": 242,
+              "low": 206
+            }
+          ]
+        }
+      },
+      {
+        "title": "Cabin Air Filter - Replace",
+        "description": "Modern heating and air conditioning systems in cars use an in-cabin air filter to help purify the air and eliminate outside odors. Consult your owner\u2019s manual or maintenance schedule for how often it should be changed. For convenience, you might consider having the\u00a0cabin air filter\u00a0changed\u00a0in conjunction with\u00a0other routine maintenance. ",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 34,
+              "high": 38,
+              "low": 31
+            },
+            {
+              "name": "labor",
+              "average": 63,
+              "high": 69,
+              "low": 57
+            },
+            {
+              "name": "total",
+              "average": 98,
+              "high": 107,
+              "low": 89
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 34,
+              "high": 38,
+              "low": 31
+            },
+            {
+              "name": "labor",
+              "average": 65,
+              "high": 71,
+              "low": 59
+            },
+            {
+              "name": "total",
+              "average": 99,
+              "high": 109,
+              "low": 91
+            }
+          ]
+        }
+      },
+      {
+        "title": "Catalytic Converter Replacement",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 1361,
+              "high": 1415,
+              "low": 1307
+            },
+            {
+              "name": "labor",
+              "average": 611,
+              "high": 642,
+              "low": 580
+            },
+            {
+              "name": "total",
+              "average": 1972,
+              "high": 2057,
+              "low": 1887
+            }
+          ]
+        }
+      },
+      {
+        "title": "Clutch Replacement",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 863,
+              "high": 906,
+              "low": 820
+            },
+            {
+              "name": "labor",
+              "average": 1013,
+              "high": 1054,
+              "low": 972
+            },
+            {
+              "name": "total",
+              "average": 1876,
+              "high": 1960,
+              "low": 1792
+            }
+          ]
+        }
+      },
+      {
+        "title": "Coolant - Flush",
+        "description": "Periodically flushing the engine coolant can help keep contaminants that clog the radiator\u2019s cooling element from building up. A clogged radiator could make the engine run hot, cause premature wear and even lead to engine failure. Fresh coolant also contains inhibitors that will keep the entire cooling system clean from rust, which could cause leaks in the radiator. Typically, you should flush and replace the coolant every 30,000 miles or five years, whichever comes first.",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 90,
+              "high": 98,
+              "low": 82
+            },
+            {
+              "name": "labor",
+              "average": 169,
+              "high": 182,
+              "low": 155
+            },
+            {
+              "name": "total",
+              "average": 259,
+              "high": 281,
+              "low": 238
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 104,
+              "high": 113,
+              "low": 95
+            },
+            {
+              "name": "labor",
+              "average": 195,
+              "high": 211,
+              "low": 179
+            },
+            {
+              "name": "total",
+              "average": 300,
+              "high": 325,
+              "low": 274
+            }
+          ]
+        }
+      },
+      {
+        "title": "Coolant Thermostat Replacement",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 108,
+              "high": 117,
+              "low": 99
+            },
+            {
+              "name": "labor",
+              "average": 492,
+              "high": 522,
+              "low": 462
+            },
+            {
+              "name": "total",
+              "average": 600,
+              "high": 639,
+              "low": 561
+            }
+          ]
+        }
+      },
+      {
+        "title": "Crankshaft Seal Replacement",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 93,
+              "high": 101,
+              "low": 85
+            },
+            {
+              "name": "labor",
+              "average": 754,
+              "high": 792,
+              "low": 716
+            },
+            {
+              "name": "total",
+              "average": 847,
+              "high": 893,
+              "low": 801
+            }
+          ]
+        }
+      },
+      {
+        "title": "Differential Fluid - Flush",
+        "description": "In addition to wheels, a vehicle\u2019s drive axle includes a differential unit, which uses gears to synchronize the rate at which the wheels rotate. When your vehicle turns, the inside wheels don\u2019t need to make as many rotations as the outside wheels, which have a greater distance to cover. The differential helps keep the axle from binding up from this difference in turning rates. A thin coat of oil lubricates these gears, and that oil needs to be changed from time to time. Your owner\u2019s manual or maintenance minder will tell you when to replace it. If the oil becomes contaminated or the level drops too low, the gears could be damaged, which would lead to a more expensive repair or replacement. ",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 78,
+              "high": 85,
+              "low": 71
+            },
+            {
+              "name": "labor",
+              "average": 95,
+              "high": 103,
+              "low": 86
+            },
+            {
+              "name": "total",
+              "average": 173,
+              "high": 189,
+              "low": 157
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 89,
+              "high": 97,
+              "low": 81
+            },
+            {
+              "name": "labor",
+              "average": 108,
+              "high": 117,
+              "low": 99
+            },
+            {
+              "name": "total",
+              "average": 197,
+              "high": 214,
+              "low": 181
+            }
+          ]
+        }
+      },
+      {
+        "title": "Drive Belt Tensioner Replacement",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 248,
+              "high": 268,
+              "low": 228
+            },
+            {
+              "name": "labor",
+              "average": 259,
+              "high": 280,
+              "low": 238
+            },
+            {
+              "name": "total",
+              "average": 507,
+              "high": 548,
+              "low": 466
+            }
+          ]
+        }
+      },
+      {
+        "title": "Engine Air Filter - Replace",
+        "description": "The engine air filter helps trap dirt and debris before it can enter the engine. Typically, you should change the engine air filter every 30,000 to 45,000 miles, but if you\u2019re in a dusty, dirty region, cut these distances in half.",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 29,
+              "high": 33,
+              "low": 26
+            },
+            {
+              "name": "labor",
+              "average": 55,
+              "high": 60,
+              "low": 49
+            },
+            {
+              "name": "total",
+              "average": 85,
+              "high": 94,
+              "low": 75
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 29,
+              "high": 33,
+              "low": 26
+            },
+            {
+              "name": "labor",
+              "average": 55,
+              "high": 60,
+              "low": 49
+            },
+            {
+              "name": "total",
+              "average": 85,
+              "high": 94,
+              "low": 75
+            }
+          ]
+        }
+      },
+      {
+        "title": "Engine Belt - Replace",
+        "description": "Several types of engine belts need to be replaced from time to time. Vehicles from 1990 and newer typically have a serpentine belt. The belt snakes around the pulleys located at the front of the engine (or the side of a transverse-mounted engine) and drives multiple accessories including the alternator, power steering pump and air conditioning compressor. If it is squeaking or worn, it could break, which would make the engine inoperable. Check it at 60,000 miles but change it before 100,000 miles. Older vehicles usually have separate belts for the water pump, alternator, radiator fan and air conditioning system, but when they break, you still may be able to get home. Finally, engine timing belts help to keep the camshaft and crankshaft in sync so that pistons and valves operate in sync. They typically last from 60,000 to 90,000 miles. A broken timing belt could result in engine damage and an expensive rebuild.  ",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 100,
+              "high": 109,
+              "low": 91
+            },
+            {
+              "name": "labor",
+              "average": 149,
+              "high": 161,
+              "low": 137
+            },
+            {
+              "name": "total",
+              "average": 249,
+              "high": 270,
+              "low": 228
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 100,
+              "high": 109,
+              "low": 91
+            },
+            {
+              "name": "labor",
+              "average": 149,
+              "high": 161,
+              "low": 137
+            },
+            {
+              "name": "total",
+              "average": 249,
+              "high": 270,
+              "low": 228
+            }
+          ]
+        }
+      },
+      {
+        "title": "Engine Control Unit (ECU) - Reprogram",
+        "description": "Flashing or reprogramming your engine\u2019s computer keeps it up-to-date and operating properly. The engine control unit (ECU) is a computer that controls all of your vehicle\u2019s electronic systems. Like many computers, it occasionally requires reprogramming of its operating software. Your vehicle\u2019s warranty may covered it, but there\u2019s usually an additional charge. For example,  Mazda charged a fee to re-flash the system so their vehicles could operate Apple CarPlay or Android Auto. On occasion, other vehicles revert to limp-home mode following an ECU malfunction. In order to diagnose what needs to be done, a dealership technician will connect a computer to the vehicle\u2019s On-Board Diagnostic II (OBD-II) port. Consult with your dealership service department for more information on your specific car, truck or SUV. ",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 0,
+              "high": 0,
+              "low": 0
+            },
+            {
+              "name": "labor",
+              "average": 184,
+              "high": 199,
+              "low": 169
+            },
+            {
+              "name": "total",
+              "average": 184,
+              "high": 199,
+              "low": 169
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 0,
+              "high": 0,
+              "low": 0
+            },
+            {
+              "name": "labor",
+              "average": 237,
+              "high": 256,
+              "low": 218
+            },
+            {
+              "name": "total",
+              "average": 237,
+              "high": 256,
+              "low": 218
+            }
+          ]
+        }
+      },
+      {
+        "title": "Engine Diagnostics - Check Engine Light",
+        "description": "Diagnostics are periodic checks of the system operations of your car, truck or SUV that can give you a quick window into your vehicle\u2019s health. A mechanic performs diagnostics by plugging into a receptacle under the dashboard to access the On Board Diagnostics (OBD-II) tool or by tapping into a system like General Motors\u2019 OnStar. ",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 0,
+              "high": 0,
+              "low": 0
+            },
+            {
+              "name": "labor",
+              "average": 291,
+              "high": 314,
+              "low": 267
+            },
+            {
+              "name": "total",
+              "average": 291,
+              "high": 314,
+              "low": 267
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 0,
+              "high": 0,
+              "low": 0
+            },
+            {
+              "name": "labor",
+              "average": 274,
+              "high": 296,
+              "low": 252
+            },
+            {
+              "name": "total",
+              "average": 274,
+              "high": 296,
+              "low": 252
+            }
+          ]
+        }
+      },
+      {
+        "title": "Engine Replacement",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 3969,
+              "high": 4108,
+              "low": 3830
+            },
+            {
+              "name": "labor",
+              "average": 3247,
+              "high": 3361,
+              "low": 3133
+            },
+            {
+              "name": "total",
+              "average": 7216,
+              "high": 7469,
+              "low": 6963
+            }
+          ]
+        }
+      },
+      {
+        "title": "Exhaust System Replacement",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 441,
+              "high": 467,
+              "low": 415
+            },
+            {
+              "name": "labor",
+              "average": 282,
+              "high": 305,
+              "low": 259
+            },
+            {
+              "name": "total",
+              "average": 723,
+              "high": 772,
+              "low": 674
+            }
+          ]
+        }
+      },
+      {
+        "title": "Fuel Filter - Replace",
+        "description": "The fuel filter is positioned in the line leading from the gas tank to the engine and prevents containments from getting inside the engine, which could lead to a loss in performance and\u00a0potential damage\u00a0to the cylinder lining. Older cars may need their filters replaced as often as every two years and 30,000\u00a0miles;\u00a0newer vehicles could go\u00a0as long as\u00a050,000 miles before needing the filter changed. Consult your owner\u2019s manual\u00a0for more information.",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 71,
+              "high": 77,
+              "low": 65
+            },
+            {
+              "name": "labor",
+              "average": 87,
+              "high": 95,
+              "low": 79
+            },
+            {
+              "name": "total",
+              "average": 158,
+              "high": 172,
+              "low": 144
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 89,
+              "high": 97,
+              "low": 81
+            },
+            {
+              "name": "labor",
+              "average": 109,
+              "high": 118,
+              "low": 100
+            },
+            {
+              "name": "total",
+              "average": 198,
+              "high": 215,
+              "low": 181
+            }
+          ]
+        }
+      },
+      {
+        "title": "Fuel Injector - Replace",
+        "description": "A vehicle\u2019s fuel delivery system has progressed quite a bit from the carburetor that used to sit on top of the engine. Today, modern vehicles feature precise fuel injection systems located on top of \u2013 or even inside \u2013 the combustion chamber. Restrictions in fuel flow, electrical problems with the injectors themselves or even dirty or contaminated fuel can all cause trouble. Fuel injectors will typically last between 50,000 and 100,000 miles. Much of this lifespan is determined by the type of fuel used and how often the vehicle\u2019s fuel filters are changed. Some symptoms that your fuel injectors need replacing include an illuminated check engine light, a decrease in fuel efficiency, a smell of fuel (especially near the fuel injectors under the hood) and engine misfiring. Fuel injector replacement is a job best performed by an ASE-certified mechanic at a dealership service department or automotive service center. ",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 319,
+              "high": 338,
+              "low": 300
+            },
+            {
+              "name": "labor",
+              "average": 479,
+              "high": 508,
+              "low": 450
+            },
+            {
+              "name": "total",
+              "average": 798,
+              "high": 846,
+              "low": 750
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 399,
+              "high": 423,
+              "low": 375
+            },
+            {
+              "name": "labor",
+              "average": 599,
+              "high": 629,
+              "low": 569
+            },
+            {
+              "name": "total",
+              "average": 998,
+              "high": 1052,
+              "low": 944
+            }
+          ]
+        }
+      },
+      {
+        "title": "Fuel Injector - Service",
+        "description": "Changing from carburetors to fuel injection systems has made fuel delivery more precise. But every now and then the system needs to be flushed, cleaned and restored. Servicing your fuel injection system helps to remove waxy build-up & deposits and cleans the intake valves, cylinder heads and fuel delivery lines. This results in an extended engine life, improved performance, and better fuel economy. Most modern engines suggest fuel injector service at 60,000 miles, unless a specific problem crops up. Check your owner\u2019s manual to know for sure with your car. If you notice a certain sluggishness in acceleration and a decrease in fuel economy, it might mean it\u2019s time for a fuel injector service. Your local dealership service department performs this job every day. Contact them for more information. ",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 85,
+              "high": 93,
+              "low": 77
+            },
+            {
+              "name": "labor",
+              "average": 127,
+              "high": 137,
+              "low": 117
+            },
+            {
+              "name": "total",
+              "average": 212,
+              "high": 230,
+              "low": 194
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 84,
+              "high": 92,
+              "low": 76
+            },
+            {
+              "name": "labor",
+              "average": 125,
+              "high": 135,
+              "low": 115
+            },
+            {
+              "name": "total",
+              "average": 209,
+              "high": 227,
+              "low": 191
+            }
+          ]
+        }
+      },
+      {
+        "title": "Fuel Pump - Replace",
+        "description": "Located inside your fuel tank, a fuel pump has a small electric motor to make sure that pressurized gasoline flows to the engine to power the vehicle. Along the way, the fuel passes through a filter, either inside the fuel tank or externally in the fuel flow line. Most fuel pumps will last for the life of the vehicle but occasionally they can fail. Signs of such failure are a car that won\u2019t start or stalls once it has started. Other times, the fuel flow can slowly become starved causing the check engine light to come on. Or if you hear a whirring sound coming from your fuel tank, the fuel pump may be about to fail, since fuel pumps do not normally make noise. A mechanic will need to get to the failed pump through the top of the fuel tank via an access panel in the passenger compartment or by removing the tank from the vehicle. This moderately complicated job is best performed at your dealership\u2019s service department. ",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 504,
+              "high": 529,
+              "low": 479
+            },
+            {
+              "name": "labor",
+              "average": 617,
+              "high": 648,
+              "low": 586
+            },
+            {
+              "name": "total",
+              "average": 1121,
+              "high": 1177,
+              "low": 1065
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 509,
+              "high": 534,
+              "low": 484
+            },
+            {
+              "name": "labor",
+              "average": 622,
+              "high": 653,
+              "low": 591
+            },
+            {
+              "name": "total",
+              "average": 1131,
+              "high": 1187,
+              "low": 1075
+            }
+          ]
+        }
+      },
+      {
+        "title": "Head Gasket Replacement",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 628,
+              "high": 659,
+              "low": 597
+            },
+            {
+              "name": "labor",
+              "average": 1614,
+              "high": 1679,
+              "low": 1549
+            },
+            {
+              "name": "total",
+              "average": 2242,
+              "high": 2338,
+              "low": 2146
+            }
+          ]
+        }
+      },
+      {
+        "title": "Hood Latch Assembly Replacement",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 112,
+              "high": 121,
+              "low": 103
+            },
+            {
+              "name": "labor",
+              "average": 248,
+              "high": 268,
+              "low": 228
+            },
+            {
+              "name": "total",
+              "average": 360,
+              "high": 389,
+              "low": 331
+            }
+          ]
+        }
+      },
+      {
+        "title": "Ignition Switch Replacement",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 140,
+              "high": 151,
+              "low": 129
+            },
+            {
+              "name": "labor",
+              "average": 285,
+              "high": 308,
+              "low": 262
+            },
+            {
+              "name": "total",
+              "average": 425,
+              "high": 459,
+              "low": 391
+            }
+          ]
+        }
+      },
+      {
+        "title": "Intake Manifold Gasket - Replace",
+        "description": "The intake manifold gasket is an aluminized piece of steel coated in a carbonized rubber formula that provides a seal between the intake manifold and the engine\u2019s cylinder head. It ensures proper engine manifold pressure, which is needed to maintain power. Intake manifold gaskets are able to withstand deterioration caused by coolants, oils and other fluids. They are also designed to resist long-term bouts of constant temperature fluctuation from starting and stopping the engine. But after many miles and years of service, the material may wear out, resulting in pressure and coolant leakage and causing the engine to run rough and overheat. A mechanic will replace the intake manifold gasket by removing all components above the cylinder heads that may obscure the gasket from removal. Once they have removed it, the mounting surface is cleaned and resurfaced, and the gasket is replaced. ",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 116,
+              "high": 125,
+              "low": 107
+            },
+            {
+              "name": "labor",
+              "average": 465,
+              "high": 493,
+              "low": 437
+            },
+            {
+              "name": "total",
+              "average": 581,
+              "high": 618,
+              "low": 544
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 123,
+              "high": 133,
+              "low": 113
+            },
+            {
+              "name": "labor",
+              "average": 490,
+              "high": 519,
+              "low": 461
+            },
+            {
+              "name": "total",
+              "average": 613,
+              "high": 652,
+              "low": 574
+            }
+          ]
+        }
+      },
+      {
+        "title": "Mass Air Sensor Replacement",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 217,
+              "high": 234,
+              "low": 200
+            },
+            {
+              "name": "labor",
+              "average": 201,
+              "high": 217,
+              "low": 185
+            },
+            {
+              "name": "total",
+              "average": 418,
+              "high": 451,
+              "low": 385
+            }
+          ]
+        }
+      },
+      {
+        "title": "Oil Change",
+        "description": "An oil change is the act of replacing the oil and oil filter in your car, truck or SUV\u2019s crankcase. Oil has a limited life span and should be changed according to the maintenance schedule in your Owner\u2019s Manual. Many modern vehicles use synthetic motor oil, which only requires an oil change every 7,500\u201315,000 miles depending on the manufacturer\u2019s recommendation. ",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 47,
+              "high": 52,
+              "low": 42
+            },
+            {
+              "name": "labor",
+              "average": 39,
+              "high": 43,
+              "low": 35
+            },
+            {
+              "name": "total",
+              "average": 86,
+              "high": 95,
+              "low": 77
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 59,
+              "high": 64,
+              "low": 54
+            },
+            {
+              "name": "labor",
+              "average": 48,
+              "high": 53,
+              "low": 43
+            },
+            {
+              "name": "total",
+              "average": 108,
+              "high": 118,
+              "low": 97
+            }
+          ]
+        }
+      },
+      {
+        "title": "Oil Pan Gasket Replacement",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 134,
+              "high": 145,
+              "low": 123
+            },
+            {
+              "name": "labor",
+              "average": 536,
+              "high": 563,
+              "low": 509
+            },
+            {
+              "name": "total",
+              "average": 670,
+              "high": 708,
+              "low": 632
+            }
+          ]
+        }
+      },
+      {
+        "title": "Oil Pan Replacement",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 274,
+              "high": 296,
+              "low": 252
+            },
+            {
+              "name": "labor",
+              "average": 740,
+              "high": 777,
+              "low": 703
+            },
+            {
+              "name": "total",
+              "average": 1014,
+              "high": 1073,
+              "low": 955
+            }
+          ]
+        }
+      },
+      {
+        "title": "Oil Pressure Sensor Replacement",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 67,
+              "high": 73,
+              "low": 61
+            },
+            {
+              "name": "labor",
+              "average": 236,
+              "high": 255,
+              "low": 217
+            },
+            {
+              "name": "total",
+              "average": 303,
+              "high": 328,
+              "low": 278
+            }
+          ]
+        }
+      },
+      {
+        "title": "Oil Pump Replacement",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 464,
+              "high": 492,
+              "low": 436
+            },
+            {
+              "name": "labor",
+              "average": 862,
+              "high": 905,
+              "low": 819
+            },
+            {
+              "name": "total",
+              "average": 1326,
+              "high": 1397,
+              "low": 1255
+            }
+          ]
+        }
+      },
+      {
+        "title": "PCV Valve Replacement",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 77,
+              "high": 84,
+              "low": 70
+            },
+            {
+              "name": "labor",
+              "average": 155,
+              "high": 167,
+              "low": 143
+            },
+            {
+              "name": "total",
+              "average": 232,
+              "high": 251,
+              "low": 213
+            }
+          ]
+        }
+      },
+      {
+        "title": "Power Steering Fluid - Flush",
+        "description": "Modern cars, trucks and SUVs all use power steering to make maneuvering effortless. The power steering system uses a pump and hydraulic pressure to assist the steering gears. Power steering fluid is designed to last for as long as 100,000 miles, but the system may leak or the fluid may become exhausted before then. Follow the recommendation from your owner\u2019s manual to see when it\u2019s time to flush the power steering fluid. A mechanic will flush the system by removing dark, discolored power steering fluid and refilling it with fresh fluid, while an assistant turns the steering wheel from left to right to get old fluid out of the system. When the remaining fluid appears like fresh fluid, the system has been successfully flushed. Remove the remaining fluid, refill with fresh power steering fluid and your vehicle should be good for another 100,000 miles. ",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 63,
+              "high": 69,
+              "low": 57
+            },
+            {
+              "name": "labor",
+              "average": 95,
+              "high": 104,
+              "low": 86
+            },
+            {
+              "name": "total",
+              "average": 158,
+              "high": 173,
+              "low": 143
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 74,
+              "high": 81,
+              "low": 67
+            },
+            {
+              "name": "labor",
+              "average": 111,
+              "high": 120,
+              "low": 102
+            },
+            {
+              "name": "total",
+              "average": 185,
+              "high": 201,
+              "low": 169
+            }
+          ]
+        }
+      },
+      {
+        "title": "Power Steering Pump - Replace",
+        "description": "A belt-driven power steering pump provides your vehicle with the hydraulic pressure needed to assist its steering. That boost eases the effort enabling a smoother steering motion. Power steering pumps fail as a result of worn bearings or by leaks which have drained the power steering fluid from the pump entirely. Failure to address the lack of fluid and a subsequent pump malfunction can cause the pump to seize up. At the same time, it\u2019s a good idea to also have all hoses that lead to the pump replaced to minimize the chance of subsequent power steering fluid leaks. Many newer vehicles have gone to electrically assisted power steering, which eliminates the use of hydraulic fluid, hoses and the pump itself. ",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 453,
+              "high": 480,
+              "low": 426
+            },
+            {
+              "name": "labor",
+              "average": 302,
+              "high": 320,
+              "low": 284
+            },
+            {
+              "name": "total",
+              "average": 755,
+              "high": 800,
+              "low": 710
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 484,
+              "high": 513,
+              "low": 455
+            },
+            {
+              "name": "labor",
+              "average": 322,
+              "high": 341,
+              "low": 303
+            },
+            {
+              "name": "total",
+              "average": 806,
+              "high": 854,
+              "low": 758
+            }
+          ]
+        }
+      },
+      {
+        "title": "Purge Valve Replacement",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 147,
+              "high": 159,
+              "low": 135
+            },
+            {
+              "name": "labor",
+              "average": 212,
+              "high": 229,
+              "low": 195
+            },
+            {
+              "name": "total",
+              "average": 359,
+              "high": 388,
+              "low": 330
+            }
+          ]
+        }
+      },
+      {
+        "title": "Radiator Fan Motor Replacement",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 307,
+              "high": 325,
+              "low": 289
+            },
+            {
+              "name": "labor",
+              "average": 407,
+              "high": 431,
+              "low": 383
+            },
+            {
+              "name": "total",
+              "average": 714,
+              "high": 756,
+              "low": 672
+            }
+          ]
+        }
+      },
+      {
+        "title": "Radiator Hose Replacement",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 231,
+              "high": 249,
+              "low": 213
+            },
+            {
+              "name": "labor",
+              "average": 283,
+              "high": 306,
+              "low": 260
+            },
+            {
+              "name": "total",
+              "average": 514,
+              "high": 555,
+              "low": 473
+            }
+          ]
+        }
+      },
+      {
+        "title": "Radiator Replacement",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 428,
+              "high": 454,
+              "low": 402
+            },
+            {
+              "name": "labor",
+              "average": 615,
+              "high": 646,
+              "low": 584
+            },
+            {
+              "name": "total",
+              "average": 1043,
+              "high": 1100,
+              "low": 986
+            }
+          ]
+        }
+      },
+      {
+        "title": "Spark Plugs - Replace",
+        "description": "Spark plugs ignite the fuel mixture in the engine, providing the power to make your car go. Sitting atop your engine\u2019s cylinder head, it receives a spark from the electronic ignition in modern vehicles, or the distributor cap and rotor found in older cars. Eventually, at around 30,000 miles to as high as 40,000 miles, conventional spark plugs will wear out, which could cause stalling, starting problems and engine misfires. Higher-cost platinum-tipped spark plugs may not need to be replaced as often. At the same time, it might be appropriate to replace your oxygen sensor, spark plug wires, PCV valve and fuel filter. ",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 101,
+              "high": 109,
+              "low": 92
+            },
+            {
+              "name": "labor",
+              "average": 151,
+              "high": 163,
+              "low": 139
+            },
+            {
+              "name": "total",
+              "average": 253,
+              "high": 273,
+              "low": 232
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 126,
+              "high": 137,
+              "low": 116
+            },
+            {
+              "name": "labor",
+              "average": 189,
+              "high": 204,
+              "low": 174
+            },
+            {
+              "name": "total",
+              "average": 316,
+              "high": 341,
+              "low": 291
+            }
+          ]
+        }
+      },
+      {
+        "title": "Starter Replacement",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 411,
+              "high": 436,
+              "low": 386
+            },
+            {
+              "name": "labor",
+              "average": 336,
+              "high": 356,
+              "low": 316
+            },
+            {
+              "name": "total",
+              "average": 747,
+              "high": 792,
+              "low": 702
+            }
+          ]
+        }
+      },
+      {
+        "title": "Thermostat - Replace",
+        "description": "A vehicle\u2019s cooling system uses a thermostat valve to help regulate the engine\u2019s temperature. When the engine is cold, the valve will be closed, bypassing the radiator and allowing the engine to rapidly come up to operating temperature. After that level has been reached, the valve on the thermostat opens to allow coolant to circulate through the radiator. But sometimes, through normal wear and tear or contaminants in the coolant, the thermostat may fail to open, causing the engine to overheat. This will be evident by the temperature gauge climbing into the high temperature (usually red) zone. Remember that a thermostat failure can also be caused by other factors, as well. For that reason, it is important to have a skilled mechanic check all the links in the chain \u2013 radiator, coolant pump, hoses and thermostat. ",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 164,
+              "high": 177,
+              "low": 151
+            },
+            {
+              "name": "labor",
+              "average": 382,
+              "high": 405,
+              "low": 359
+            },
+            {
+              "name": "total",
+              "average": 546,
+              "high": 582,
+              "low": 510
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 200,
+              "high": 216,
+              "low": 184
+            },
+            {
+              "name": "labor",
+              "average": 466,
+              "high": 494,
+              "low": 438
+            },
+            {
+              "name": "total",
+              "average": 666,
+              "high": 710,
+              "low": 622
+            }
+          ]
+        }
+      },
+      {
+        "title": "Throttle Body Replacement",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 173,
+              "high": 187,
+              "low": 159
+            },
+            {
+              "name": "labor",
+              "average": 240,
+              "high": 259,
+              "low": 221
+            },
+            {
+              "name": "total",
+              "average": 413,
+              "high": 446,
+              "low": 380
+            }
+          ]
+        }
+      },
+      {
+        "title": "Timing Belt - Replace",
+        "description": "Critical to the operation of your vehicle, the timing belt synchs the operations of the camshaft and the crankshaft so that the valves operate efficiently and safely. Older cars may have a timing chain, similar to a chain on a motorcycle, with a life cycle of around 60,000 miles. Newer models use timing belts made of polyurethane and Kevlar for long life and durability. They can go as long as 100,000 miles although it\u2019s always a good idea to change it before then. Belt failure can cause extensive damage to the valves, pistons and other internal parts of the engine. The cost of changing the timing belt is a bargain when you consider the cost to replace the entire engine. Start thinking about changing the timing belt once you cross the 90,000-mile threshold. Check your owner\u2019s manual for details. ",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 295,
+              "high": 319,
+              "low": 271
+            },
+            {
+              "name": "labor",
+              "average": 548,
+              "high": 575,
+              "low": 521
+            },
+            {
+              "name": "total",
+              "average": 843,
+              "high": 894,
+              "low": 792
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 365,
+              "high": 387,
+              "low": 343
+            },
+            {
+              "name": "labor",
+              "average": 679,
+              "high": 713,
+              "low": 645
+            },
+            {
+              "name": "total",
+              "average": 1044,
+              "high": 1100,
+              "low": 988
+            }
+          ]
+        }
+      },
+      {
+        "title": "Timing Chain Replacement",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 855,
+              "high": 898,
+              "low": 812
+            },
+            {
+              "name": "labor",
+              "average": 1396,
+              "high": 1452,
+              "low": 1340
+            },
+            {
+              "name": "total",
+              "average": 2251,
+              "high": 2350,
+              "low": 2152
+            }
+          ]
+        }
+      },
+      {
+        "title": "Tire Pressure (TPMS) Sensor - Replace",
+        "description": "A tire pressure sensor is designed to warn that one or more of your tires is underinflated. All cars built since 2007 are required to have this system. The most common sensor uses a battery and operates via a wireless transmitter mounted inside the rim of your tire\u2019s wheel. When it detects low pressure, it sends a signal to your vehicle\u2019s computer system that shows up on your instrument panel as an icon of a tire or some other alert. Most warn of low pressure without indicating a specific tire, while more advanced systems can flag an individual wheel or indicate the pressure in each tire. The batteries in tire pressure sensors last around five to seven years but sometimes they can fail earlier. The sensors can also be damaged from potholes or other sudden jarring. Replacing the sensor is easy for a tire retailer or your dealership service department. Your service technician will also electronically reset the system after replacing the sensors or whenever you replace your tires. ",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 117,
+              "high": 126,
+              "low": 108
+            },
+            {
+              "name": "labor",
+              "average": 176,
+              "high": 190,
+              "low": 162
+            },
+            {
+              "name": "total",
+              "average": 293,
+              "high": 316,
+              "low": 270
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 136,
+              "high": 147,
+              "low": 125
+            },
+            {
+              "name": "labor",
+              "average": 203,
+              "high": 219,
+              "low": 187
+            },
+            {
+              "name": "total",
+              "average": 339,
+              "high": 366,
+              "low": 312
+            }
+          ]
+        }
+      },
+      {
+        "title": "Tire(s) - Mount & Balance (4 Wheels)",
+        "description": "Just getting a new tire doesn\u2019t always result in a smooth ride. Because of manufacturing and mounting irregularities, tires need to be balanced by adding counter-balancing weights to certain parts of the wheel. ",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 0,
+              "high": 0,
+              "low": 0
+            },
+            {
+              "name": "labor",
+              "average": 233,
+              "high": 251,
+              "low": 214
+            },
+            {
+              "name": "total",
+              "average": 233,
+              "high": 251,
+              "low": 214
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 0,
+              "high": 0,
+              "low": 0
+            },
+            {
+              "name": "labor",
+              "average": 239,
+              "high": 259,
+              "low": 220
+            },
+            {
+              "name": "total",
+              "average": 239,
+              "high": 259,
+              "low": 220
+            }
+          ]
+        }
+      },
+      {
+        "title": "Tire(s) - Patch",
+        "description": "A flat tire doesn\u2019t necessarily mean that the tire needs replacement. Patching and plugging kits can fix holes in tires caused by small sharp objects like nails and screws. Patching the tire uses an internal patch to cover the opening and requires the tire to be removed from the rim. A plug fixes a hole externally, so in some cases, the tire doesn\u2019t need to be taken off. ",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 28,
+              "high": 31,
+              "low": 25
+            },
+            {
+              "name": "labor",
+              "average": 41,
+              "high": 45,
+              "low": 36
+            },
+            {
+              "name": "total",
+              "average": 69,
+              "high": 77,
+              "low": 62
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 25,
+              "high": 28,
+              "low": 23
+            },
+            {
+              "name": "labor",
+              "average": 38,
+              "high": 41,
+              "low": 34
+            },
+            {
+              "name": "total",
+              "average": 63,
+              "high": 69,
+              "low": 58
+            }
+          ]
+        }
+      },
+      {
+        "title": "Tire(s) - Rotate",
+        "description": "Done every 5,000 miles or so, a tire rotation is the act of moving tires around your car, truck or SUV so the tires wear evenly. Some vehicles have \u201cstaggered\u201d tire sizes, meaning that the fronts are smaller than the rears. In this case, they can only be rotated from left to right (or vice versa). Some high-performance tires shouldn\u2019t be rotated at all, since they\u2019re made to turn in one direction only (usually indicated by an arrow on the tire\u2019s sidewall). As always, consult your owner\u2019s manual for more information.",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 0,
+              "high": 0,
+              "low": 0
+            },
+            {
+              "name": "labor",
+              "average": 49,
+              "high": 54,
+              "low": 43
+            },
+            {
+              "name": "total",
+              "average": 49,
+              "high": 54,
+              "low": 43
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 0,
+              "high": 0,
+              "low": 0
+            },
+            {
+              "name": "labor",
+              "average": 59,
+              "high": 65,
+              "low": 54
+            },
+            {
+              "name": "total",
+              "average": 59,
+              "high": 65,
+              "low": 54
+            }
+          ]
+        }
+      },
+      {
+        "title": "Tire(s) - Rotate & Balance (4 Wheels)",
+        "description": "Done every 5,000 miles or so, a tire rotation is the act of moving tires around the vehicle so they\u202fhave the opportunity to\u202fwear evenly. Some vehicles use \u201cstaggered\u201d tire sizes meaning the fronts are smaller than  the rears. In this case, they can only be rotated from left to right (and vice versa). \u202fSome high-performance tires shouldn\u2019t be rotated at all, since they\u2019re made to turn in one direction only (usually indicated by an arrow on the tire\u2019s sidewall). As always, consult your owner\u2019s manual for more information. Mounting new tires or rotating existing ones doesn\u2019t always result in a smooth ride.  Because of manufacturing and mounting irregularities, tires need to be balanced by adding counter-balancing weights to certain parts of the wheel.",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 0,
+              "high": 0,
+              "low": 0
+            },
+            {
+              "name": "labor",
+              "average": 112,
+              "high": 121,
+              "low": 103
+            },
+            {
+              "name": "total",
+              "average": 112,
+              "high": 121,
+              "low": 103
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 0,
+              "high": 0,
+              "low": 0
+            },
+            {
+              "name": "labor",
+              "average": 110,
+              "high": 119,
+              "low": 101
+            },
+            {
+              "name": "total",
+              "average": 110,
+              "high": 119,
+              "low": 101
+            }
+          ]
+        }
+      },
+      {
+        "title": "Transmission - Replace",
+        "description": "A transmission takes your engine\u2019s energy and delivers it to the wheels that drive your vehicle.  It is one of the most major \u2013 and expensive \u2013 repairs you can do. A transmission can fail for almost as many reasons as there are parts inside, and often, it\u2019s easier to replace it than repair it. You are not only paying for the new or rebuilt replacement transmission but also for the labor required to remove the old unit then replace it with a new one. A time-consuming operation, this involves disconnecting fluid lines, electrical wiring, engine mounts, exhaust system components, axles or driveshafts and more. A transmission replacement can be performed by a transmission specialist or by a technician at your dealership\u2019s service department. It is always better to avoid having to go this route by explicitly following the service schedule found inside your vehicle\u2019s owner\u2019s manual. ",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 3281,
+              "high": 3396,
+              "low": 3166
+            },
+            {
+              "name": "labor",
+              "average": 1766,
+              "high": 1837,
+              "low": 1695
+            },
+            {
+              "name": "total",
+              "average": 5047,
+              "high": 5233,
+              "low": 4861
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 3962,
+              "high": 4101,
+              "low": 3823
+            },
+            {
+              "name": "labor",
+              "average": 2134,
+              "high": 2219,
+              "low": 2049
+            },
+            {
+              "name": "total",
+              "average": 6096,
+              "high": 6320,
+              "low": 5872
+            }
+          ]
+        }
+      },
+      {
+        "title": "Transmission Fluid - Flush",
+        "description": "Most new vehicles are equipped with an automatic transmission. As a result, there's not really much maintenance to perform. Still, most owner\u2019s manuals will recommend changing the transmission fluid every 90,000 miles or so. Flushing your transmission\u2019s fluid has fallen out of vogue in recent years because the high-pressure cleaning involved may dislodge debris inside the transmission that can literally gum up the works. By following your vehicle\u2019s maintenance schedule, your car\u2019s gearbox will offer years of trouble-free driving. For more information check with your owner\u2019s manual and your dealership service advisor.\n",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 153,
+              "high": 165,
+              "low": 141
+            },
+            {
+              "name": "labor",
+              "average": 186,
+              "high": 201,
+              "low": 171
+            },
+            {
+              "name": "total",
+              "average": 339,
+              "high": 366,
+              "low": 312
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 136,
+              "high": 147,
+              "low": 125
+            },
+            {
+              "name": "labor",
+              "average": 166,
+              "high": 179,
+              "low": 153
+            },
+            {
+              "name": "total",
+              "average": 302,
+              "high": 326,
+              "low": 278
+            }
+          ]
+        }
+      },
+      {
+        "title": "Turbo Replacement",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 1451,
+              "high": 1509,
+              "low": 1393
+            },
+            {
+              "name": "labor",
+              "average": 889,
+              "high": 933,
+              "low": 845
+            },
+            {
+              "name": "total",
+              "average": 2340,
+              "high": 2442,
+              "low": 2238
+            }
+          ]
+        }
+      },
+      {
+        "title": "Valve Cover Gasket Replacement",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 101,
+              "high": 109,
+              "low": 93
+            },
+            {
+              "name": "labor",
+              "average": 381,
+              "high": 404,
+              "low": 358
+            },
+            {
+              "name": "total",
+              "average": 482,
+              "high": 513,
+              "low": 451
+            }
+          ]
+        }
+      },
+      {
+        "title": "Water Pump - Replace",
+        "description": "The water pump is an essential component that keeps the coolant circulating, a critical role in ensuring that the engine maintains the proper operating temperature. Without coolant being circulated, the engine will overheat, leading to premature wear and damage. A failing water pump can also leak causing further loss of coolant. Water pumps are designed to last at least 100,000 miles, however, if your water pump fails, you should replace it with a high-quality original-equipment level unit. Less expensive replacement pumps are available, but they might only have a service life of 30,000 miles.",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 296,
+              "high": 320,
+              "low": 272
+            },
+            {
+              "name": "labor",
+              "average": 444,
+              "high": 471,
+              "low": 417
+            },
+            {
+              "name": "total",
+              "average": 740,
+              "high": 791,
+              "low": 689
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 362,
+              "high": 384,
+              "low": 340
+            },
+            {
+              "name": "labor",
+              "average": 544,
+              "high": 571,
+              "low": 517
+            },
+            {
+              "name": "total",
+              "average": 906,
+              "high": 955,
+              "low": 857
+            }
+          ]
+        }
+      },
+      {
+        "title": "Wheel Locks - Install",
+        "description": "Designed to prevent the theft of your vehicle\u2019s expensive rims, lug nut wheel locks are a relatively inexpensive way to at least slow down the bad guys. The unfortunate truth is that if someone really wants them, they will probably get them. The object of the wheel lock is to prevent or at least slow that process down. Typically, a set of wheel locks will include four locks (one lock per wheel) and at least one key to put the wheel locks on and off. Remember where you put the key and also to never over-torque the wheel lock to the lug nut. ",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 85,
+              "high": 93,
+              "low": 77
+            },
+            {
+              "name": "labor",
+              "average": 28,
+              "high": 31,
+              "low": 25
+            },
+            {
+              "name": "total",
+              "average": 113,
+              "high": 124,
+              "low": 102
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 84,
+              "high": 92,
+              "low": 76
+            },
+            {
+              "name": "labor",
+              "average": 28,
+              "high": 31,
+              "low": 25
+            },
+            {
+              "name": "total",
+              "average": 112,
+              "high": 123,
+              "low": 101
+            }
+          ]
+        }
+      },
+      {
+        "title": "Wheels - Alignment",
+        "description": "Alignment is the process of making sure all 4 wheels point in the same direction, which will cause the vehicle to drive straight and not drift. Performing this service regularly (yearly or after the vehicle starts drifting) will extend the life of your tires. Alignment is measured in degrees of camber (tire leaning inward or outward), caster (forward or backward slope of steering components in relation to the McPherson struts) and toe (the direction the tires are pointing). Toe-in means that the tires are pointing inward; toe-out means that the tires are pointing outward. Most vehicles are \u201caveraged\u201d for everyday driving. ",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 0,
+              "high": 0,
+              "low": 0
+            },
+            {
+              "name": "labor",
+              "average": 188,
+              "high": 204,
+              "low": 172
+            },
+            {
+              "name": "total",
+              "average": 188,
+              "high": 204,
+              "low": 172
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 0,
+              "high": 0,
+              "low": 0
+            },
+            {
+              "name": "labor",
+              "average": 206,
+              "high": 223,
+              "low": 189
+            },
+            {
+              "name": "total",
+              "average": 206,
+              "high": 223,
+              "low": 189
+            }
+          ]
+        }
+      },
+      {
+        "title": "Window Regulator Replacement - Rear",
+        "description": "N/A",
+        "costs": {
+          "independent": [],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 232,
+              "high": 251,
+              "low": 213
+            },
+            {
+              "name": "labor",
+              "average": 363,
+              "high": 385,
+              "low": 341
+            },
+            {
+              "name": "total",
+              "average": 595,
+              "high": 636,
+              "low": 554
+            }
+          ]
+        }
+      },
+      {
+        "title": "Wiper Blades - Replace 1 Front Wiper",
+        "description": "Consider them part of the vehicle\u2019s safety equipment: If you can\u2019t see through the windshield, you are likely putting yourself, your family and your vehicle at risk. You should aim to replace your wiper blades every six months to a year, due to the toll they take from extreme heat and humidity, which work to cut down the useful life of your blades.",
+        "costs": {
+          "independent": [
+            {
+              "name": "part",
+              "average": 52,
+              "high": 58,
+              "low": 47
+            },
+            {
+              "name": "labor",
+              "average": 13,
+              "high": 14,
+              "low": 12
+            },
+            {
+              "name": "total",
+              "average": 66,
+              "high": 72,
+              "low": 59
+            }
+          ],
+          "dealer": [
+            {
+              "name": "part",
+              "average": 53,
+              "high": 59,
+              "low": 48
+            },
+            {
+              "name": "labor",
+              "average": 13,
+              "high": 14,
+              "low": 12
+            },
+            {
+              "name": "total",
+              "average": 67,
+              "high": 73,
+              "low": 60
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

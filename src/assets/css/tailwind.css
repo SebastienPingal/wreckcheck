@@ -45,7 +45,7 @@
 :root {
   --background: oklch(1 0 0);
   --foreground: oklch(0.141 0.005 285.823);
-  --card: oklch(1 0 0);
+  --card: oklch(0.98 0.003 286.2);
   --card-foreground: oklch(0.141 0.005 285.823);
   --popover: oklch(1 0 0);
   --popover-foreground: oklch(0.141 0.005 285.823);
@@ -119,5 +119,41 @@
   }
   body {
     @apply bg-background text-foreground;
+  }
+  .h1 {
+    @apply text-4xl font-bold tracking-tight mb-4;
+  }
+  .h2 {
+    @apply text-3xl font-semibold tracking-tight mb-3;
+  }
+  .h3 {
+    @apply text-2xl font-semibold mb-2;
+  }
+  .h4 {
+    @apply text-xl font-medium mb-2;
+  }
+  .table {
+    @apply w-full table-auto border-collapse;
+  }
+  .table th {
+    @apply bg-muted p-2 text-left font-medium;
+  }
+  .table td {
+    @apply p-2 border-b border-border;
+  }
+  a {
+    @apply text-primary hover:underline;
+  }
+  p {
+    @apply mb-4;
+  }
+  code {
+    @apply bg-muted px-1 py-0.5 rounded text-sm;
+  }
+  pre {
+    @apply bg-muted p-4 rounded-md overflow-x-auto mb-4;
+  }
+  blockquote {
+    @apply border-l-4 border-muted pl-4 italic my-4;
   }
 } 

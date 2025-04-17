@@ -13,12 +13,15 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "^1.7.0",
+    "@pinia/nuxt": "0.11.0",
     "nuxt": "^3.16.2",
+    "pinia": "^3.0.2",
     "shadcn-nuxt": "2.0.1",
     "vue": "^3.5.13",
     "vue-router": "^4.5.0"
   },
   "dependencies": {
+    "@nuxt/image": "^1.10.0",
     "@tailwindcss/vite": "^4.1.4",
     "@vueuse/core": "^13.1.0",
     "class-variance-authority": "^0.7.1",
@@ -28,6 +31,7 @@
     "reka-ui": "^2.2.0",
     "tailwind-merge": "^3.2.0",
     "tailwindcss": "^4.1.4",
-    "tw-animate-css": "^1.2.5"
+    "tw-animate-css": "^1.2.5",
+    "vue-markdown-render": "^2.2.1"
   }
 }

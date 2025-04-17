@@ -6,7 +6,7 @@ export default defineNuxtConfig({
   srcDir: "src/",
   css: ["~/assets/css/tailwind.css"],
 
-  modules: ["shadcn-nuxt"],
+  modules: ["shadcn-nuxt", "@nuxt/image", "@pinia/nuxt"],
   shadcn: {
     prefix: "S",
     componentDir: "src/components/ui",

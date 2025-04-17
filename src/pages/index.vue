@@ -1,6 +1,10 @@
 <template>
-  <div class="flex flex-col gap-4">
-    <h1 class="text-2xl font-bold">Upload an image</h1>
+  <div class="flex flex-col gap-4 p-4">
+    <div class="flex flex-col items-center gap-2">
+      <img src="/images/logo.png" class="w-32 h-32 rounded" />
+      <h1 class="text-5xl font-bold">Wreckcheck</h1>
+    </div>
+    <CarChooser />
     <SImageInput v-model="selectedImage" />
     <div v-if="selectedImage" class="mt-2 p-3 bg-gray-100 rounded-md shadow-sm flex justify-between">
       <div class="flex items-center gap-2">
@@ -27,21 +31,43 @@
         </div>
       </SButton>
     </div>
-    <div v-if="damageAnalysis" class="p-3 bg-gray-100 rounded-md shadow-sm">
-      <div class="font-medium">Damage Analysis</div>
-      <div class="text-sm">{{ damageAnalysis }}</div>
-      <SButton @click="generateEstimate" variant="outline">Generate estimate</SButton>
-    </div>
+    <SCard v-if="damageAnalysis">
+      <SCardHeader>
+        <SCardTitle>Damage Analysis</SCardTitle>
+      </SCardHeader>
+      <SCardContent>
+        <VueMarkdown :source="damageAnalysis" />
+      </SCardContent>
+    </SCard>
   </div>
 </template>
 
 <script setup>
 import { ref } from 'vue'
+import { useGlobalStore } from '@/store/global'
+
+const globalStore = useGlobalStore()
 
 const isLoading = ref(false)
-const isGeneratingEstimate = ref(false)
 const damageAnalysis = ref(null)
 const selectedImage = ref(null)
+
+const mockDamageAnalysis = `## DAMAGE ANALYSIS
+ - Hood: Severe denting and misalignment
+   - Repair recommendation: Replace
+ - Front Left Fender: Moderate dent
+   - Repair recommendation: Repair and paint
+ - Front Bumper: Minor scratches
+   - Repair recommendation: Paint
+
+## REPAIR ESTIMATE
+ | Item | Parts | Labor | Total |
+ | -------------------------------| -------| -------| -------|
+ | Hood Replacement | $274 | $508 | $782 |
+ | Fender Repair and Paint | $0 | $300 | $300 |
+ | Bumper Paint | $0 | $250 | $250 |
+
+TOTAL ESTIMATE: $1332`
 
 const formatSize = (bytes) => {
   if (bytes < 1024) return bytes + ' bytes'
@@ -53,43 +79,25 @@ const uploadImage = () => {
   isLoading.value = true
   console.log('🖼️ Selected image:', selectedImage.value)
 
-  // Call the API to upload the image
+  // Create FormData for the image only
   const formData = new FormData()
   formData.append('image', selectedImage.value)
 
-  fetch('/api/wreckcheck', {
+  // Send VIN as a query parameter
+  fetch(`/api/wreckcheck?vin=${encodeURIComponent(globalStore.vin)}`, {
     method: 'POST',
     body: formData
   })
     .then(response => response.json())
     .then(data => {
       console.log('✅ Upload successful:', data)
-      damageAnalysis.value = data.damage_analysis
+      damageAnalysis.value = data.analysis_and_estimate
     })
     .catch(error => {
       console.error('❌ Upload failed:', error)
     })
     .finally(() => {
       isLoading.value = false
-    })
-}
-
-const generateEstimate = () => {
-  isGeneratingEstimate.value = true
-
-  fetch('/api/wreckcheck/estimate', {
-    method: 'POST',
-    body: JSON.stringify({ damageAnalysis: damageAnalysis.value })
-  })
-    .then(response => response.json())
-    .then(data => {
-      console.log('✅ Estimate generated:', data)
-    })
-    .catch(error => {
-      console.error('❌ Estimate generation failed:', error)
-    })
-    .finally(() => {
-      isGeneratingEstimate.value = false
     })
 }
 </script>
